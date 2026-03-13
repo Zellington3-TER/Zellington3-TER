@@ -11,7 +11,7 @@
 
 
 <p>
-  I’m a Master’s student in Computer Science, and I also have a Bachelor’s in the field. I work as an ERP Developer specializing in Epicor, building efficient, reliable solutions that streamline business processes and enhance system performance. I love building creative, efficient tech solutions—whether it’s backend logic, sleek frontend interfaces, or automating workflows on Arch Linux. I enjoy writing clean, user-focused code that brings ideas to life. I’m always learning, exploring, and finding ways to build tools that make everyday tasks simpler and smarter. 
+  I'm a Master's student in Computer Science, and I also have a Bachelor's in the field. I work as an ERP Developer specializing in Epicor, building efficient, reliable solutions that streamline business processes and enhance system performance. I love building creative, efficient tech solutions: backend logic, sleek frontend interfaces, and automated workflows on Arch Linux. I enjoy writing clean, user-focused code that brings ideas to life. I'm always learning, exploring, and finding ways to build tools that make everyday tasks simpler and smarter. 
 </p>
 
 <p>
