@@ -9,9 +9,16 @@
 </h1>
 
 
+
 <p>
-  I’m a Master’s student in Computer Science, and I also have a Bachelor’s in the field. I love building creative, efficient tech solutions—whether it’s backend logic, sleek frontend interfaces, or automating workflows on Arch Linux. I enjoy writing clean, user-focused code that brings ideas to life. I’m always learning, exploring, and finding ways to build tools that make everyday tasks simpler and smarter. 🧠
+  I’m a Master’s student in Computer Science, and I also have a Bachelor’s in the field. I work as an ERP Developer specializing in Epicor, building efficient, reliable solutions that streamline business processes and enhance system performance. I love building creative, efficient tech solutions—whether it’s backend logic, sleek frontend interfaces, or automating workflows on Arch Linux. I enjoy writing clean, user-focused code that brings ideas to life. I’m always learning, exploring, and finding ways to build tools that make everyday tasks simpler and smarter. 
 </p>
+
+<p>
+  This is my work GitHub account. My personal GitHub account can be found here: 
+  https://github.com/Zellington3github.com/Zellington3</a>.
+</p>
+
 
 <ul>
   <li>🌱 Currently diving deeper into system-level scripting and cloud deployments.</li>
