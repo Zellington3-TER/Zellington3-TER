@@ -16,7 +16,7 @@
 
 <p>
   This is my work GitHub account. My personal GitHub account can be found here: 
-  https://github.com/Zellington3github.com/Zellington3</a>.
+  <a>https://github.com/Zellington3</a>.
 </p>
 
 
